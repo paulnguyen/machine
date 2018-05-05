@@ -14,3 +14,10 @@
 ## MNIST Data Set
 
 * http://yann.lecun.com/exdb/mnist/
+
+
+## References
+
+* http://jupyter.org/
+* http://jupyter-notebook.readthedocs.io/en/stable/index.html
+* https://www.anaconda.com/download
