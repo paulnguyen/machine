@@ -1,9 +1,11 @@
 # Machine Learning
 
-## Data Science Book
+## Data Science Books
 
 * http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/
 * https://github.com/joelgrus/data-science-from-scratch
+* https://learning.oreilly.com/library/view/practical-statistics-for/9781491952955/
+* https://github.com/andrewgbruce/statistics-for-data-scientists
 
 ## iOS Example
 
